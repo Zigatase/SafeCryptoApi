@@ -8,7 +8,7 @@ Author-email: zigatase@gmail.com
 License: SafeCrypto
 Keywords: bitcoin,wallet,litecoin,hd-wallet,dogecoin,dashcoin,bitcore,qtum,ravencoin,martexcoin,address,crypto,python
 Platform: any
-Classifier: License :: OSI Approved :: MIT License
+Classifier: License :: OSI Approved :: SafeCrypto
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Operating System :: OS Independent
