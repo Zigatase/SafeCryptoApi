@@ -55,16 +55,19 @@ Output looks like this:
 
     {
       "coin": "BTC",
-      "seed": "guess tiny intact poet process segment pelican bright assume avocado view lazy",
-      "address": "1HwPm2tcdakwkTTWU286crWQqTnbEkD7av",
+      "seed": "price scare winner wrap describe slender toy wedding type become book beach",
+      "private_key": 'd4a605fb4196f7f872b2c4b60a30a2f04ea050b457df30eee40b04ccf84df624',
+      "public_key": '047f6a8a7c5786a149ee5d2996b0f1a0b08cfd3f019f117566a7c6f7e9dbc05a6ce36c4c0fd84a9e56f6748ddcd7d0c63d734c645a446b547ff314a09e5a29c46e',
       "xprivate_key": "xprv9s21ZrQH143K2Dizn667UCo9oYPdTPSMWq7D5t929aXf1kfnmW79CryavzBxqbWfrYzw8jbyTKvsiuFNwr1JL2qfrUy2Kbwq4WbBPfxYGbg",
       "xpublic_key": "xpub661MyMwAqRbcEhoTt7d7qLjtMaE7rrACt42otGYdhv4dtYzwK3RPkfJ4nEjpFQDdT8JjT3VwQ3ZKjJaeuEdpWmyw16sY9SsoY68PoXaJvfU",
-      "wif": "L1EnVJviG6jR2oovFbfxZoMp1JknTACKLzsTKqDNUwATCWpY1Fp4",
+      "address": '1Hsn2cRy1B3Bvk72bFa6xpVHf9F92vx1D8'
+      "wif": "L4M57uEdXVz13uLUfvoK7dsMPjqaEsVVFTHAUjNxYZFMCvMSvorC",
       "children": [{
-         "address": "1E3btRwsoJx2jUcMnATyx7poHhV2tomL8g",
-         "path": "m/0",
-         "xpublic_key": "xpub69Fho5TtAbdoXyWzgUV1ZYst9K4bVfoGNLZxQ9u5js4Rb1jEyUjDtoATXbWvAcV8cERCMMnH8wYRVVUsRDSfaMjLqaY3TvD7Am9ALjq5PsG",
-         "wif": "KysRDiwJNkS9VPzy1UH76DrCDizsWKtEooSzikich792RVzcUaJP"
+         "xpublic_key": 'xpub69FQtJwZTFLtC7ruWDkJsojMeQMvgHxxtLJi1QLDZhSPTyeUitXG5vs95qWL2h4wKbYtEjoqjEWkBo7T4doNNwrC5arxKMBj4ejnVe2eEPe',
+         "address": '1FWYdwjLuzFJN1yRciV6rErRcujZh3niA4',
+         "path": 'm/0',
+         "bip32_path": "m/44'/0'/0'/0",
+         "wif": ''
      }]
     }
 
