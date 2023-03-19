@@ -1,7 +1,18 @@
+Safe Cryto Api
+==============
 
-SafeCryptoApi
-===========
+**Safe Crypto Api includes: PyWallet (bugfixes), BitcoinLib**
 
+Installation
+-------------
+
+Install via PiP:
+
+   $ sudo pip install safecryptoapi
+
+
+Safe Crypto Api -> PyWallet
+---------------------------
 **Simple BIP32 (HD) wallet creation for: BTC, BTX, RVN, MXT, BTG, BCH, ETH, LTC, DASH, DOGE**
 
 BIP32 (or HD for "hierarchical deterministic") wallets allow you to create
@@ -14,16 +25,6 @@ BTC, BTX, RVN, MXT, BTG, BCH, ETH, LTC, DASH and DOGE cryptocurrencies.
 Enjoy!
 
 --------------
-
-Installation
--------------
-
-Install via PiP:
-
-.. code:: bash
-
-   $ sudo pip install safecryptoapi
-
 
 Example code:
 =============
@@ -149,10 +150,3 @@ Output looks like this:
       "address": "1KpS2wC5J8bDsGShXDHD7qdGvnic1h27Db",
       "path": "m/0/394997119"
     }
-
------
-
-IMPORTANT
-=========
-
-Enjoy!
