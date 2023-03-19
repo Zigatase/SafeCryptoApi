@@ -10,6 +10,13 @@ Install via PiP:
 
    $ sudo pip install safecryptoapi
 
+Install Requirments:
+
+     pip install -r requirements.txt
+
+     pip install -r requirements-dev.txt
+
+
 
 Safe Crypto Api > PyWallet
 ===========================
