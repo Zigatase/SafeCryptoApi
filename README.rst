@@ -11,8 +11,6 @@ private key to an insecure server.
 This library simplify the process of creating new wallets for the
 BTC, BTX, RVN, MXT, BTG, BCH, ETH, LTC, DASH and DOGE cryptocurrencies.
 
-This is a fork of `PyWallet <https://github.com/ranaroussi/pywallet>` with support for more coins, and some bugfixes.
-
 Enjoy!
 
 --------------
@@ -154,10 +152,3 @@ Output looks like this:
 IMPORTANT
 =========
 
-I **highly** recommend that you familiarize yourself with the Blockchain technology and
-be aware of security issues.
-Reading `Mastering Bitcoin <https://github.com/bitcoinbook/bitcoinbook>`_ and going over
-Steven Buss's security notes on the `Bitmerchant repository <https://github.com/sbuss/bitmerchant>`_
-is a good start.
-
-Enjoy!
