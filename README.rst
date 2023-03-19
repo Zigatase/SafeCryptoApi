@@ -12,7 +12,7 @@ Install via PiP:
 
 
 Safe Crypto Api -> PyWallet
----------------------------
+===========================
 **Simple BIP32 (HD) wallet creation for: BTC, BTX, RVN, MXT, BTG, BCH, ETH, LTC, DASH, DOGE**
 
 BIP32 (or HD for "hierarchical deterministic") wallets allow you to create
