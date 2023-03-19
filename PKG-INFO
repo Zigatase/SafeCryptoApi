@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: SafeCryptoApi
 Version: 0.1.0
-Summary: Simple BIP32 (HD) wallet creation for BTC, BTX, RVN, MXT, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE
+Summary: SafeCryptoApi: BitcoinLib, PyWallet (BugFix)
 Home-page:
 Author: Zigatase
 Author-email: zigatase@gmail.com

@@ -29,8 +29,7 @@ version = load_version()
 setup(
     name='safecrypto',
     version=version,
-    description="SafeCryptiApi -> PyWallet: Simple BIP32 (HD) wallet creation for BTC, BTX, RVN, MXT, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE"
-                "SafeCryptoApi -> BitcoinLib: ",
+    description="SafeCryptiApi -> BitcoinLib, PyWallet (BugFix)",
     long_description=long_description,
     url='https://github.com/Zigatase/SafeCryptoApi',
     dowload_url='https://github.com/Zigatase/SafeCryptoApi',
