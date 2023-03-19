@@ -11,7 +11,7 @@ Install via PiP:
    $ sudo pip install safecryptoapi
 
 
-Safe Crypto Api -> PyWallet
+Safe Crypto Api > PyWallet
 ===========================
 **Simple BIP32 (HD) wallet creation for: BTC, BTX, RVN, MXT, BTG, BCH, ETH, LTC, DASH, DOGE**
 
