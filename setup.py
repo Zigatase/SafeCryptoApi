@@ -10,6 +10,8 @@ import re
 with open(path.join('README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
+
+# Load Version Api
 def load_version():
     version_file = "safecryptoapi/pywallet/_version.py"
     version_line = open(version_file).read().rstrip()
@@ -48,9 +50,9 @@ setup(
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
     ],
-    platforms = ['any'],
+    platforms=['any'],
     keywords='bitcoin, wallet, litecoin, hd-wallet, dogecoin, dashcoin, bitcore, qtum, ravencoin, martexcoin, address, crypto, python',
-    packages = find_packages(exclude=['contrib', 'docs', 'tests', 'demo', 'demos', 'examples']),
+    packages=find_packages(exclude=['contrib', 'docs', 'tests', 'demo', 'demos', 'examples']),
     package_data={'': ['AUTHORS', 'LICENSE']},
     install_requires=[
         "base58>=0.2.2",
