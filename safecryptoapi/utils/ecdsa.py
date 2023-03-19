@@ -235,7 +235,7 @@ class ECPoint(object):
         """
         raise NotImplementedError()
 
-    def from_jacobian():
+    def from_jacobian(self):
         """ Converts from a Jacobian representation to an Affine.
         """
         raise NotImplementedError()
