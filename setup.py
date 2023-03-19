@@ -11,7 +11,7 @@ with open(path.join('README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 def load_version():
-    version_file = "safecryptopy/_version.py"
+    version_file = "safecryptoapi/_version.py"
     version_line = open(version_file).read().rstrip()
     vre = re.compile(r'__version__ = "([^"]+)"')
     matches = vre.findall(version_line)
