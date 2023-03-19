@@ -1,7 +1,7 @@
 Safe Cryto Api
 ==============
 
-**Safe Crypto Api includes: PyWallet (bugfixes), BitcoinLib, SafeCryptoPay**
+**Safe Crypto Api includes: PyWallet (bugfixes), BitcoinLib, SafeCryptoPay(P2PKH)**
 
 Installation
 -------------
