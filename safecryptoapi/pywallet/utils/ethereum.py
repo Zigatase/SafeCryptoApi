@@ -21,9 +21,9 @@ import codecs
 import struct
 import os
 from collections import namedtuple
-from safecryptoapi.utils.ecdsa import Point
-from safecryptoapi.utils.ecdsa import ECPointAffine
-from safecryptoapi.utils.ecdsa import secp256k1
+from safecryptoapi.pywallet.utils.ecdsa import Point
+from safecryptoapi.pywallet.utils.ecdsa import ECPointAffine
+from safecryptoapi.pywallet.utils.ecdsa import secp256k1
 
 bitcoin_curve = secp256k1()
 
