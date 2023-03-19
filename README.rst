@@ -480,12 +480,3 @@ To upgrade make sure everything is backuped and run updatedb.py from the install
 
 For more information on installing, updating and maintenance see
 https://bitcoinlib.readthedocs.io/en/latest/_static/manuals.install.html#installation
-
-
-Future / Roadmap
-================
-
-* Support advanced scripts
-* Fully support timelocks
-* Support for lightning network
-* Support for Trezor wallet
